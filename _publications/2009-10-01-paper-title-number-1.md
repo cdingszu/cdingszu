@@ -2,7 +2,7 @@
 title: "Splitting submanifolds in rational homogeneous spaces of Picard number one"
 collection: publications
 category: manuscripts
-permalink:https://doi.org/10.1007/s00209-022-02967-z
+permalink: https://doi.org/10.1007/s00209-022-02967-z
 venue: 'Mathematische Zeitschrift'
 citation: 'C. Ding,. (2022). &Splitting submanifolds in rational homogeneous spaces of Picard number one.&quot; Mathematische Zeitschrift. 1(1).'
 ---
